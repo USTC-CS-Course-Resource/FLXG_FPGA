@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../FLXG.srcs/sources_1/ip/clk_wiz_65M" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_2048/sim/blk_mem_gen_num_2048.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_1024/sim/blk_mem_gen_num_1024.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_512/sim/blk_mem_gen_num_512.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_256/sim/blk_mem_gen_num_256.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_128/sim/blk_mem_gen_num_128.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_64/sim/blk_mem_gen_num_64.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_32/sim/blk_mem_gen_num_32.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_16/sim/blk_mem_gen_num_16.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_8/sim/blk_mem_gen_num_8.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_4/sim/blk_mem_gen_num_4.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_2/sim/blk_mem_gen_num_2.v" \
+"../../../../FLXG.srcs/sources_1/ip/blk_mem_gen_num_none/sim/blk_mem_gen_num_none.v" \
+"../../../../FLXG.srcs/sources_1/ip/img_wu/sim/img_wu.v" \
+"../../../../FLXG.srcs/sources_1/ip/clk_wiz_65M/clk_wiz_65M_clk_wiz.v" \
+"../../../../FLXG.srcs/sources_1/ip/clk_wiz_65M/clk_wiz_65M.v" \
+"../../../../FLXG.srcs/sources_1/new/Down_Move.v" \
+"../../../../FLXG.srcs/sources_1/new/FLXG.v" \
+"../../../../FLXG.srcs/sources_1/new/Global_Status_Judger.v" \
+"../../../../FLXG.srcs/sources_1/new/Left_Move.v" \
+"../../../../FLXG.srcs/sources_1/new/Right_Move.v" \
+"../../../../FLXG.srcs/sources_1/new/Up_Move.v" \
+"../../../../FLXG.srcs/sources_1/new/VGA.v" \
+"../../../../FLXG.srcs/sim_1/new/FLXG_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

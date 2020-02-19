@@ -1,0 +1,604 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:33 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'img_wu'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of img_wu (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:26 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'img_success'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of img_success (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:23 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'img_rst'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of img_rst (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:20 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'img_fail'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of img_fail (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:16 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'img_cwk'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of img_cwk (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:12 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'clk_wiz_65M'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of clk_wiz_65M (xilinx.com:ip:clk_wiz:6.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:04 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_none'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_none (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:51:02 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_8'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_8 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:59 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_64'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_64 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:56 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_512'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_512 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:53 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_4'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_4 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:51 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_32'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_32 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:49 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_256'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_256 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:46 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_2048'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_2048 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:43 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_2 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:40 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_16'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_16 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:38 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_128'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_128 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:35 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_num_1024'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_num_1024 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:32 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_8'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_8 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:29 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_64'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_64 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:26 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_512'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_512 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:22 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_4'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_4 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:19 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_32'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_32 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:16 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_256'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_256 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:13 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_2048'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_2048 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:10 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_2 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:07 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_16'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_16 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:50:03 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_128'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_128 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 12:49:59 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'blk_mem_gen_1024'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of blk_mem_gen_1024 (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 3) to (Rev. 4)
+

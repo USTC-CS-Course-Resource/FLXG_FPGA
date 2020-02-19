@@ -1,0 +1,7 @@
+Running: xsim.dir/FLXG_sim_behav/xsimk.exe -simmode gui -wdb FLXG_sim_behav.wdb -simrunnum 0 -socket 62504
+Design successfully loaded
+Design Loading Memory Usage: 9220 KB (Peak: 9220 KB)
+Design Loading CPU Usage: 92 ms
+Simulation completed
+Simulation Memory Usage: 12692 KB (Peak: 12692 KB)
+Simulation CPU Usage: 2624 ms

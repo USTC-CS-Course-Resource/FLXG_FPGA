@@ -1,0 +1,46 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_2048/sim/blk_mem_gen_num_2048.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_2048
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_1024/sim/blk_mem_gen_num_1024.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_1024
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_512/sim/blk_mem_gen_num_512.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_512
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_256/sim/blk_mem_gen_num_256.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_256
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_128/sim/blk_mem_gen_num_128.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_128
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_64/sim/blk_mem_gen_num_64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_64
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_32/sim/blk_mem_gen_num_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_16/sim/blk_mem_gen_num_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_8/sim/blk_mem_gen_num_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_4/sim/blk_mem_gen_num_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_2/sim/blk_mem_gen_num_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/blk_mem_gen_num_none/sim/blk_mem_gen_num_none.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_num_none
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/img_wu/sim/img_wu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module img_wu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/clk_wiz_65M/clk_wiz_65M_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_65M_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/ip/clk_wiz_65M/clk_wiz_65M.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_65M
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/Down_Move.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Down_Move
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/FLXG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FLXG
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/Global_Status_Judger.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Global_Status_Judger
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/Left_Move.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Left_Move
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/Right_Move.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Right_Move
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/Up_Move.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Up_Move
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sources_1/new/VGA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VGA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/FLXG/FLXG.srcs/sim_1/new/FLXG_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FLXG_sim

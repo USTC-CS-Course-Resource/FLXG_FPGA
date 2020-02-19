@@ -1,0 +1,2 @@
+memory_initialization_radix=10;
+memory_initialization_vector=0 0 4 16 48 128 320 768 1792 4096 9216 20480 45056 98304 212992 458752;

@@ -1,0 +1,145 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Feb  5 13:16:19 2020
+| Host         : DESKTOP-FPAAR5U running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file FLXG_control_sets_placed.rpt
+| Design       : FLXG
+| Device       : xc7a100t
+------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |    67 |
+|    Minimum number of control sets                        |    67 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |   250 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |    67 |
+| >= 0 to < 4        |    14 |
+| >= 4 to < 6        |     2 |
+| >= 6 to < 8        |     8 |
+| >= 8 to < 10       |     1 |
+| >= 10 to < 12      |     2 |
+| >= 12 to < 14      |    17 |
+| >= 14 to < 16      |     2 |
+| >= 16              |    21 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |             496 |          221 |
+| No           | No                    | Yes                    |              44 |           22 |
+| No           | Yes                   | No                     |             274 |           98 |
+| Yes          | No                    | No                     |             292 |           93 |
+| Yes          | No                    | Yes                    |              59 |           22 |
+| Yes          | Yes                   | No                     |             345 |          107 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++-------------------------------------------+--------------------------------------+------------------------------------------+------------------+----------------+
+|                Clock Signal               |             Enable Signal            |             Set/Reset Signal             | Slice Load Count | Bel Load Count |
++-------------------------------------------+--------------------------------------+------------------------------------------+------------------+----------------+
+|  clk_IBUF_BUFG                            |                                      | nolabel_line194/dec_4_reg[1]_LDC_i_1_n_0 |                1 |              1 |
+| ~clk_IBUF_BUFG                            | Keyboard/E[2]                        |                                          |                1 |              1 |
+|  nolabel_line194/dec_4_reg[1]_LDC_i_1_n_0 |                                      | nolabel_line194/dec_4_reg[1]_LDC_i_2_n_0 |                1 |              1 |
+| ~clk_IBUF_BUFG                            | Left_Move/E[0]                       |                                          |                1 |              1 |
+| ~clk_IBUF_BUFG                            | Down_Move/Global_Status_reg[0]_0[0]  |                                          |                1 |              1 |
+|  nolabel_line194/dec_4_reg[3]_LDC_i_1_n_0 |                                      | nolabel_line194/dec_4_reg[3]_LDC_i_2_n_0 |                1 |              1 |
+|  clk_IBUF_BUFG                            |                                      | nolabel_line194/dec_4_reg[2]_LDC_i_1_n_0 |                1 |              1 |
+|  clk_IBUF_BUFG                            |                                      | nolabel_line194/dec_4_reg[2]_LDC_i_2_n_0 |                1 |              1 |
+|  clk_IBUF_BUFG                            |                                      | nolabel_line194/dec_4_reg[3]_LDC_i_1_n_0 |                1 |              1 |
+|  clk_IBUF_BUFG                            |                                      | nolabel_line194/dec_4_reg[3]_LDC_i_2_n_0 |                1 |              1 |
+|  clk_IBUF_BUFG                            |                                      | nolabel_line194/dec_4_reg[1]_LDC_i_2_n_0 |                1 |              1 |
+| ~clk_IBUF_BUFG                            | Right_Move/E[0]                      |                                          |                1 |              1 |
+|  nolabel_line194/dec_4_reg[2]_LDC_i_1_n_0 |                                      | nolabel_line194/dec_4_reg[2]_LDC_i_2_n_0 |                1 |              1 |
+| ~clk_IBUF_BUFG                            | Keyboard/E[1]                        |                                          |                1 |              2 |
+|  clk_IBUF_BUFG                            | Keyboard/ps2_clk_neg                 | rst_IBUF                                 |                1 |              4 |
+| ~clk_IBUF_BUFG                            | Keyboard/E[0]                        |                                          |                3 |              4 |
+|  clk_IBUF_BUFG                            |                                      | Down_Move/Signal_0                       |                2 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Right_Move/Signal_0                      |                1 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Keyboard/key_reg[13]_1[0]                |                2 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Keyboard/SS[0]                           |                1 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Keyboard/key_reg[11]_0[0]                |                4 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Up_Move/Signal_0                         |                2 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Left_Move/Signal_0                       |                2 |              6 |
+|  clk_IBUF_BUFG                            |                                      | Keyboard/key_reg[13]_0[0]                |                2 |              6 |
+|  clk_IBUF_BUFG                            | nolabel_line194/AN[7]_i_1_n_0        | rst_IBUF                                 |                3 |              8 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/h_cnt[11]_i_1_n_0                | VGA/v_cnt[11]_i_1_n_0                    |                3 |             11 |
+|  VGA/clk_wiz_65M/inst/clk_out1            |                                      | VGA/h_cnt[11]_i_1_n_0                    |                3 |             11 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/red[3]_i_1_n_0                   |                                          |                7 |             12 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[2][13]_i_2_n_0      | VGA/rom_addr_num[2][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[12][13]_i_2_n_0     | VGA/rom_addr_num[12][13]_i_1_n_0         |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[11][13]_i_2_n_0     | VGA/rom_addr_num[11][13]_i_1_n_0         |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[14][13]_i_2_n_0     | VGA/rom_addr_num[14][13]_i_1_n_0         |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[10][13]_i_2_n_0     | VGA/rom_addr_num[10][13]_i_1_n_0         |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[15][13]_i_2_n_0     | VGA/rom_addr_num[15][13]_i_1_n_0         |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[0][13]_i_2_n_0      | VGA/rom_addr_num[0][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[13][13]_i_2_n_0     | VGA/rom_addr_num[13][13]_i_1_n_0         |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[9][13]_i_2_n_0      | VGA/rom_addr_num[9][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[7][13]_i_2_n_0      | VGA/rom_addr_num[7][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[8][13]_i_2_n_0      | VGA/rom_addr_num[8][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[4][13]_i_2_n_0      | VGA/rom_addr_num[4][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[5][13]_i_2_n_0      | VGA/rom_addr_num[5][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[6][13]_i_2_n_0      | VGA/rom_addr_num[6][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[3][13]_i_2_n_0      | VGA/rom_addr_num[3][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num[1][13]_i_2_n_0      | VGA/rom_addr_num[1][13]_i_1_n_0          |                4 |             13 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_num_input               |                                          |               10 |             14 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_rst[14]_i_2_n_0         | VGA/rom_addr_rst[14]_i_1_n_0             |                4 |             14 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr[15]_i_2_n_0             | VGA/rom_addr[15]_i_1_n_0                 |                4 |             16 |
+|  clk_IBUF_BUFG                            | Keyboard/key                         | rst_IBUF                                 |                3 |             16 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_success[15]_i_2_n_0     | VGA/rom_addr_success[15]_i_1_n_0         |                4 |             16 |
+|  VGA/clk_wiz_65M/inst/clk_out1            | VGA/rom_addr_fail[15]_i_2_n_0        | VGA/rom_addr_fail[15]_i_1_n_0            |                4 |             16 |
+|  clk_IBUF_BUFG                            |                                      | Left_Move/Signal_counter[31]_i_1__2_n_0  |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Down_Move/key_counter[31]_i_1_n_0        |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Down_Move/Signal_counter[31]_i_1_n_0     |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Up_Move/key_counter[31]_i_1__0_n_0       |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Up_Move/Signal_counter[31]_i_1__0_n_0    |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Right_Move/key_counter[31]_i_1__1_n_0    |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Right_Move/Signal_counter[31]_i_1__1_n_0 |                9 |             26 |
+|  clk_IBUF_BUFG                            |                                      | Keyboard/SR[0]                           |                9 |             26 |
+|  clk_IBUF_BUFG                            | nolabel_line194/dec                  | rst_IBUF                                 |               15 |             31 |
+|  clk_IBUF_BUFG                            |                                      | rst_IBUF                                 |               20 |             42 |
+|  clk_IBUF_BUFG                            | Right_Move/last_state[63]_i_1__1_n_0 |                                          |               18 |             64 |
+|  clk_IBUF_BUFG                            | Down_Move/last_state[63]_i_1_n_0     |                                          |               19 |             64 |
+|  clk_IBUF_BUFG                            | Left_Move/last_state[63]_i_1__2_n_0  |                                          |               16 |             64 |
+|  clk_IBUF_BUFG                            | Up_Move/last_state[63]_i_1__0_n_0    |                                          |               15 |             64 |
+| ~clk_IBUF_BUFG                            | Down_Move/E[0]                       | Keyboard/Display_Num0                    |               24 |             64 |
+|  VGA/clk_wiz_65M/inst/clk_out1            |                                      |                                          |               87 |            172 |
+|  clk_IBUF_BUFG                            |                                      |                                          |              134 |            324 |
++-------------------------------------------+--------------------------------------+------------------------------------------+------------------+----------------+
+
+

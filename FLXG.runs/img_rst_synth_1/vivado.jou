@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Feb  5 12:54:33 2020
+# Process ID: 24288
+# Current directory: D:/VivadoProject/FLXG/FLXG.runs/img_rst_synth_1
+# Command line: vivado.exe -log img_rst.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source img_rst.tcl
+# Log file: D:/VivadoProject/FLXG/FLXG.runs/img_rst_synth_1/img_rst.vds
+# Journal file: D:/VivadoProject/FLXG/FLXG.runs/img_rst_synth_1\vivado.jou
+#-----------------------------------------------------------
+source img_rst.tcl -notrace
