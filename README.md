@@ -1,5 +1,7 @@
 # FLXG in FPGA
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/RabbitWhite1/USTC-Health-Report/blob/master/LICENSE)
+
 ---
 
 This is a game implemention of `FLXG` in Verilog HDL, which is a game like `2048`.
