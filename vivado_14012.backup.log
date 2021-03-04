@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 23 04:34:34 2021
+# Process ID: 14012
+# Current directory: F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22020 F:\Data\USTC-CS-Resources\CS\Analog-and-Digital-Circuits\FLXG_FPGA\FLXG.xpr
+# Log file: F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA/vivado.log
+# Journal file: F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA/FLXG.xpr
+INFO: [Project 1-313] Project file moved from 'D:/VivadoProject/FLXG' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Xilinx/Vivado/2020.2/data/ip'.
+WARNING: [IP_Flow 19-2162] IP 'clk_wiz_65M' is locked:
+* IP definition 'Clocking Wizard (6.0)' for IP 'clk_wiz_65M' (customized with software release 2019.2) has a different revision in the IP Catalog.
+INFO: [Project 1-230] Project 'FLXG.xpr' upgraded for this version of Vivado.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:11 . Memory (MB): peak = 1152.191 ; gain = 42.070
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Feb 23 04:47:09 2021...

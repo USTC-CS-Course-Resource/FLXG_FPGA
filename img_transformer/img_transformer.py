@@ -48,7 +48,7 @@ def img_transformer(img_filename, resize_shape):
     f.close()
 
     # show the img resized
-    cv2.imshow("wu", resized)
+    cv2.imshow("hebe", resized)
     cv2.waitKey(0)
 
 

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb 24 01:13:34 2021
+# Process ID: 23324
+# Current directory: F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3816 F:\Data\USTC-CS-Resources\CS\Analog-and-Digital-Circuits\FLXG_FPGA\FLXG.xpr
+# Log file: F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA/vivado.log
+# Journal file: F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/Data/USTC-CS-Resources/CS/Analog-and-Digital-Circuits/FLXG_FPGA/FLXG.xpr
+update_compile_order -fileset sources_1
